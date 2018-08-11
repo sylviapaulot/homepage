@@ -1,0 +1,48 @@
+body{
+	background-color: rgb(240, 240, 240);
+}
+h1{font-size:55px;
+color: green;  
+
+}
+
+h2 {
+	font-size: 30px;
+	color: Black;
+}
+p	{
+	color:Black;
+}
+div {
+	background-color: green;
+}
+#header {
+	background-image: url('https://www.lamaisonduchefnormand.fr/wp-content/uploads/2017/04/spring-tree-flowers-meadow-60006.jpeg');
+	padding: 200px;
+	background-size: cover;
+	text-align: center
+}
+
+.card{
+		text-align: center;
+		background-color: lightgreen;
+		border: 0.5px solid green; 
+		height: 250px; border-radius: 25px;
+}
+
+.card img {
+	width: 250px; border-radius: 15px;
+
+.card text-decoration: {
+
+}
+
+}
+#footer{
+	padding: 150px;
+	background-color: green
+
+}
+#footer p {
+	color: rgb(250,250,250);
+}
